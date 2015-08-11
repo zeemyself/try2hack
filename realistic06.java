@@ -1,5 +1,3 @@
-package coccal;
-
 import java.util.Scanner;
 
 public class Test {
